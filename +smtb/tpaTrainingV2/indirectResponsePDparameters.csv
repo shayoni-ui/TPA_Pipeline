@@ -1,0 +1,4 @@
+name,type,val,units,source
+kin,parameter,1,nanomole/liter/hour,
+kout,parameter,1,1/hour,
+RC50,parameter,1,nanogram/milliliter,
